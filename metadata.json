@@ -1,0 +1,6 @@
+{
+  "name": "OmniBus - Mobile Bus Booking & Live Tracking",
+  "description": "Cross-platform mobile bus ticket booking application with interactive seat selection, digital QR code boarding passes, multi-gateway payments, real-time GPS telemetry tracking, offline wallet, and instant push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
